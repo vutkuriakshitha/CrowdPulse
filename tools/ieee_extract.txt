@@ -1,0 +1,69 @@
+﻿==========================================================================================
+TEMPLATE IEEE conference-template-a4.docx
+Key style definitions:
+  papertitle      id=papertitle font=None size=24.0 bold=False align=center
+  Author          id=Author font=None size=11.0 bold=False align=center
+  Abstract        id=Abstract font=None size=9.0 bold=True align=both
+  Keywords        id=Keywords font=None size=None bold=False align=None
+  BodyText        id=BodyText font=None size=None bold=False align=both
+  Heading1        id=Heading1 font=None size=None bold=False align=None
+  Heading2        id=Heading2 font=None size=None bold=False align=start
+  bulletlist      id=bulletlist font=None size=None bold=None align=None
+  figurecaption   id=figurecaption font=None size=8.0 bold=False align=both
+  references      id=references font=None size=8.0 bold=False align=both
+
+Paragraphs: 96, words: 2616
+  1 | papertitle | sz=[] | b=False | wc=6 | Paper Title* (use style: paper title)
+  2 | Author | sz=[8.0] | b=False | wc=12 | *Note: Sub-titles are not captured in Xplore and should not be used
+  3 | Author | sz=[] | b=False | wc=0 | 
+  4 | Author | sz=[] | b=False | wc=0 | 
+  5 | Author | sz=[9.0] | b=False | wc=31 | line 1: 1st Given Name Surname \nline 2: dept. name of organization \n(of Affiliation)\nline 3: name of organization \n(
+  6 | Author | sz=[9.0] | b=False | wc=62 | line 1: 4th Given Name Surname\nline 2: dept. name of organization\n(of Affiliation)\nline 3: name of organization \n(of
+  7 | Author | sz=[9.0] | b=False | wc=62 | line 1: 5th Given Name Surname\nline 2: dept. name of organization \n(of Affiliation)\nline 3: name of organization \n(o
+  8 | Author | sz=[9.0] | b=False | wc=31 | line 1: 6th Given Name Surname\nline 2: dept. name of organization \n(of Affiliation)\nline 3: name of organization \n(o
+  9 | Abstract | sz=[] | b=True | wc=39 | AbstractùThis electronic document is a ôliveö template and already defines the components of your paper [title, text, he
+ 10 | Keywords | sz=[] | b=True | wc=7 | Keywordsùcomponent, formatting, style, styling, insert (key words)
+ 11 | Heading1 | sz=[] | b=False | wc=3 | Introduction (Heading 1)
+ 12 | BodyText | sz=[] | b=False | wc=141 | This template, modified in MS Word 2007 and saved as a ôWord 97-2003 Documentö for the PC, provides authors with most of
+ 13 | Heading1 | sz=[] | b=False | wc=3 | Ease of Use
+ 14 | Heading2 | sz=[] | b=False | wc=5 | Selecting a Template (Heading 2)
+ 15 | BodyText | sz=[] | b=False | wc=42 | First, confirm that you have the correct template for your paper size. This template has been tailored for output on the
+ 16 | Heading2 | sz=[] | b=False | wc=6 | Maintaining the Integrity of the Specifications
+ 17 | BodyText | sz=[] | b=False | wc=80 | The template is used to format your paper and style the text. All margins, column widths, line spaces, and text fonts ar
+ 18 | Heading1 | sz=[] | b=False | wc=5 | Prepare Your Paper Before Styling
+ 19 | BodyText | sz=[] | b=False | wc=39 | Before you begin to format your paper, first write and save the content as a separate text file. Complete all content an
+ 20 | BodyText | sz=[] | b=False | wc=59 | Keep your text and graphic files separate until after the text has been formatted and styled. Do not use hard tabs, and 
+ 21 | Heading2 | sz=[] | b=False | wc=3 | Abbreviations and Acronyms
+ 22 | BodyText | sz=[] | b=False | wc=52 | Define abbreviations and acronyms the first time they are used in the text, even after they have been defined in the abs
+ 23 | Heading2 | sz=[] | b=False | wc=1 | Units
+ 24 | bulletlist | sz=[] | b=False | wc=41 | Use either SI (MKS) or CGS as primary units. (SI units are encouraged.) English units may be used as secondary units (in
+ 25 | bulletlist | sz=[] | b=False | wc=46 | Avoid combining SI and CGS units, such as current in amperes and magnetic field in oersteds. This often leads to confusi
+ 26 | bulletlist | sz=[] | b=False | wc=38 | Do not mix complete spellings and abbreviations of units: ôWb/m2ö or ôwebers per square meterö, not ôwebers/m2ö.  Spell 
+ 27 | sponsors | sz=[] | b=False | wc=11 | Identify applicable funding agency here. If none, delete this text box.
+ 28 | bulletlist | sz=[] | b=False | wc=15 | Use a zero before decimal points: ô0.25ö, not ô.25ö. Use ôcm3ö, not ôccö. (bullet list)
+ 29 | Heading2 | sz=[] | b=False | wc=1 | Equations
+ 30 | BodyText | sz=[] | b=False | wc=65 | The equations are an exception to the prescribed specifications of this template. You will need to determine whether or 
+ 31 | BodyText | sz=[] | b=False | wc=78 | Number equations consecutively. Equation numbers, within parentheses, are to position flush right, as in (1), using a ri
+python : Traceback (most recent call last):
+At C:\Users\akshi\AppData\Local\Temp\ps-script-1195426f-dbbf-44e9-9661-de9690e9d5f3.ps1:113 char:1
++ python c:\MAJORPROJECT\tools\extract_ieee_styles.py 2>&1 | Out-File - ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "c:\MAJORPROJECT\tools\extract_ieee_styles.py", line 184, in <module>
+    main()
+    ~~~~^^
+  File "c:\MAJORPROJECT\tools\extract_ieee_styles.py", line 174, in main
+    print(
+    ~~~~~^
+        f"{i+1:3d} | {p['style']} | sz={p['sizes']} | b={p['bold']} | "
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        f"wc={len(p['text'].split())} | {t}"
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 43-45: character maps to <undefined>

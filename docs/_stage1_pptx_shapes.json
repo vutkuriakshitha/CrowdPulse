@@ -1,0 +1,333 @@
+[
+  {
+    "n": 1,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "has_text": true,
+        "has_table": false,
+        "text": "CVR COLLEGE OF ENGINEERING\u000bDEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING"
+      },
+      {
+        "name": "Subtitle 2",
+        "has_text": true,
+        "has_table": false,
+        "text": "A Major Project Review-II \non\n< Title of the Project>\nby \n< Name of the students with Roll Numbers>\nUnder guidance of\n<Name of the guide with designation >"
+      },
+      {
+        "name": "Picture 3",
+        "has_text": false,
+        "has_table": false
+      },
+      {
+        "name": "Slide Number Placeholder 4",
+        "has_text": true,
+        "has_table": false,
+        "text": "1"
+      }
+    ]
+  },
+  {
+    "n": 2,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "has_text": true,
+        "has_table": false,
+        "text": "Contents"
+      },
+      {
+        "name": "TextBox 3",
+        "has_text": true,
+        "has_table": false,
+        "text": "Abstract\nMotivation\nLiterature Review\nLimitations of the Existing Models\nProposed Problem Statement\nProposed approach of the work\nUser/Stakeholder requirement analysis\nSoftware  requirement/Technology stack\nHardware requirements\nData sets requirement\n11. Innovation in the project\n12. Plan of action to complete the project\n  References"
+      },
+      {
+        "name": "Slide Number Placeholder 2",
+        "has_text": true,
+        "has_table": false,
+        "text": "2"
+      }
+    ]
+  },
+  {
+    "n": 3,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "has_text": true,
+        "has_table": false,
+        "text": "Abstract"
+      },
+      {
+        "name": "Slide Number Placeholder 2",
+        "has_text": true,
+        "has_table": false,
+        "text": "3"
+      }
+    ]
+  },
+  {
+    "n": 4,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "has_text": true,
+        "has_table": false,
+        "text": "Motivation"
+      },
+      {
+        "name": "Slide Number Placeholder 2",
+        "has_text": true,
+        "has_table": false,
+        "text": "4"
+      }
+    ]
+  },
+  {
+    "n": 5,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "has_text": true,
+        "has_table": false,
+        "text": "Literature review"
+      },
+      {
+        "name": "Slide Number Placeholder 2",
+        "has_text": true,
+        "has_table": false,
+        "text": "5"
+      },
+      {
+        "name": "Table 3",
+        "has_text": false,
+        "has_table": true,
+        "table_rows": 4
+      },
+      {
+        "name": "TextBox 4",
+        "has_text": true,
+        "has_table": false,
+        "text": "** Add atleast 5 to 10  reference papers as a part of Literature Survey"
+      }
+    ]
+  },
+  {
+    "n": 6,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "has_text": true,
+        "has_table": false,
+        "text": "Limitations of the Existing Work- Research Gaps"
+      },
+      {
+        "name": "Slide Number Placeholder 2",
+        "has_text": true,
+        "has_table": false,
+        "text": "6"
+      }
+    ]
+  },
+  {
+    "n": 7,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "has_text": true,
+        "has_table": false,
+        "text": "Proposed Problem statement"
+      },
+      {
+        "name": "Slide Number Placeholder 2",
+        "has_text": true,
+        "has_table": false,
+        "text": "7"
+      },
+      {
+        "name": "TextBox 3",
+        "has_text": true,
+        "has_table": false,
+        "text": "**Specify in the form of Single Statement"
+      }
+    ]
+  },
+  {
+    "n": 8,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "has_text": true,
+        "has_table": false,
+        "text": "Proposed Approach of the work"
+      },
+      {
+        "name": "Slide Number Placeholder 2",
+        "has_text": true,
+        "has_table": false,
+        "text": "8"
+      },
+      {
+        "name": "TextBox 3",
+        "has_text": true,
+        "has_table": false,
+        "text": "** Specify the Methods or Algorithms used in your project in brief"
+      }
+    ]
+  },
+  {
+    "n": 9,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "has_text": true,
+        "has_table": false,
+        "text": "User/Stakeholder Requirement Analysis\u000b"
+      },
+      {
+        "name": "Slide Number Placeholder 2",
+        "has_text": true,
+        "has_table": false,
+        "text": "9"
+      }
+    ]
+  },
+  {
+    "n": 10,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "has_text": true,
+        "has_table": false,
+        "text": "Software  Requirements/Technology stack\u000b"
+      },
+      {
+        "name": "Slide Number Placeholder 2",
+        "has_text": true,
+        "has_table": false,
+        "text": "10"
+      }
+    ]
+  },
+  {
+    "n": 11,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "has_text": true,
+        "has_table": false,
+        "text": "Hardware requirements\u000b"
+      },
+      {
+        "name": "Slide Number Placeholder 2",
+        "has_text": true,
+        "has_table": false,
+        "text": "11"
+      }
+    ]
+  },
+  {
+    "n": 12,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "has_text": true,
+        "has_table": false,
+        "text": "Data Sets requirement\u000b"
+      },
+      {
+        "name": "Slide Number Placeholder 2",
+        "has_text": true,
+        "has_table": false,
+        "text": "12"
+      }
+    ]
+  },
+  {
+    "n": 13,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "has_text": true,
+        "has_table": false,
+        "text": "Proposed Architecture of the Model \u000b"
+      },
+      {
+        "name": "Slide Number Placeholder 2",
+        "has_text": true,
+        "has_table": false,
+        "text": "13"
+      }
+    ]
+  },
+  {
+    "n": 14,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "has_text": true,
+        "has_table": false,
+        "text": "Innovation in the project\u000b"
+      },
+      {
+        "name": "Slide Number Placeholder 2",
+        "has_text": true,
+        "has_table": false,
+        "text": "14"
+      }
+    ]
+  },
+  {
+    "n": 15,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "has_text": true,
+        "has_table": false,
+        "text": "Plan of action to complete the project\u000b"
+      },
+      {
+        "name": "Slide Number Placeholder 2",
+        "has_text": true,
+        "has_table": false,
+        "text": "15"
+      },
+      {
+        "name": "TextBox 3",
+        "has_text": true,
+        "has_table": false,
+        "text": "** Specify the status of completion in percentage "
+      },
+      {
+        "name": "Table 4",
+        "has_text": false,
+        "has_table": true,
+        "table_rows": 4
+      }
+    ]
+  },
+  {
+    "n": 16,
+    "shapes": [
+      {
+        "name": "Title 1",
+        "has_text": true,
+        "has_table": false,
+        "text": "References"
+      },
+      {
+        "name": "Slide Number Placeholder 2",
+        "has_text": true,
+        "has_table": false,
+        "text": "16"
+      },
+      {
+        "name": "TextBox 3",
+        "has_text": true,
+        "has_table": false,
+        "text": "** Use standard format given in the guidelines for preparation of the documentation "
+      }
+    ]
+  }
+]

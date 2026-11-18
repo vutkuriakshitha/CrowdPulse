@@ -1,0 +1,28 @@
+﻿python : Traceback (most recent call last):
+At C:\Users\akshi\AppData\Local\Temp\ps-script-86838dc0-783c-4941-99e6-6cdc119b1d5e.ps1:113 char:1
++ python c:\MAJORPROJECT\tools\compare_docx.py 2>&1 | Out-File -FilePat ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "c:\MAJORPROJECT\tools\compare_docx.py", line 95, in <module>
+    template = analyze(r"c:\Users\akshi\Downloads\IEEE conference-template-a4.docx")
+  File "c:\MAJORPROJECT\tools\compare_docx.py", line 35, in analyze
+    doc = Document(path)
+  File "C:\Users\akshi\AppData\Roaming\Python\Python313\site-packages\docx\api.py", line 27, in Document
+    document_part = cast("DocumentPart", Package.open(docx).main_document_part)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akshi\AppData\Roaming\Python\Python313\site-packages\docx\opc\package.py", line 107, in 
+main_document_part
+    return self.part_related_by(RT.OFFICE_DOCUMENT)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akshi\AppData\Roaming\Python\Python313\site-packages\docx\opc\package.py", line 137, in 
+part_related_by
+    return self.rels.part_with_reltype(reltype)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\akshi\AppData\Roaming\Python\Python313\site-packages\docx\opc\rel.py", line 52, in part_with_reltype
+    rel = self._get_rel_of_type(reltype)
+  File "C:\Users\akshi\AppData\Roaming\Python\Python313\site-packages\docx\opc\rel.py", line 98, in _get_rel_of_type
+    raise KeyError(tmpl % reltype)
+KeyError: "no relationship of type 
+'http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument' in collection"

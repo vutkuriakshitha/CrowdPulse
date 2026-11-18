@@ -1,0 +1,1317 @@
+[
+ {
+  "n": 1,
+  "shapes": [
+   {
+    "name": "Title 1",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Timely Sync – Smart Deadline and Compliance Manager\u000b"
+    ],
+    "text": "Timely Sync – Smart Deadline and Compliance Manager\u000b"
+   },
+   {
+    "name": "Subtitle 2",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Presented By:- \u000bV. Akshitha :- 23B81A05K6",
+     "\t\t\t"
+    ],
+    "text": "Presented By:- \u000bV. Akshitha :- 23B81A05K6"
+   },
+   {
+    "name": "TextBox 3",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "CVR COLLEGE OF ENGINEERING\u000b(An UGC Autonomous Institute, Accredited by NAAC with ‘A’ Grade)\u000bDepartment of CSE\u000bB. Tech CSE-D III Year II Semester",
+     "Industrial Oriented Mini Projects(IOMP)",
+     ""
+    ],
+    "text": "CVR COLLEGE OF ENGINEERING\u000b(An UGC Autonomous Institute, Accredited by NAAC with ‘A’ Grade)\u000bDepartment of CSE\u000bB. Tech CSE-D III Year II Semester\nIndustrial Oriented Mini Projects(IOMP)"
+   },
+   {
+    "name": "Picture 4",
+    "has_text": false,
+    "has_table": false
+   },
+   {
+    "name": "TextBox 5",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "PROJECT SUPERVISOR:",
+     "Mr. M. Hanimi Reddy ",
+     "Sr. Assistant Professor",
+     "CSE Department"
+    ],
+    "text": "PROJECT SUPERVISOR:\nMr. M. Hanimi Reddy \nSr. Assistant Professor\nCSE Department"
+   }
+  ]
+ },
+ {
+  "n": 2,
+  "shapes": [
+   {
+    "name": "Title 1",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Abstract"
+    ],
+    "text": "Abstract"
+   },
+   {
+    "name": "Content Placeholder 2",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "This project presents Timely Sync, a Smart Deadline and Compliance Management System that helps students and professionals manage academic, career, and personal deadlines effectively. It overcomes the limitations of traditional reminder-based tools by providing intelligent risk scoring, impact simulation, and accountability tracking. The system supports manual task creation and smart intake from text, PDF, and images to convert bulk information into structured tasks.",
+     "\tThe system follows a modular multi-tier architecture with a responsive frontend, secure backend, and scalable NoSQL database. It integrates in-app notifications, timeline visualization, and behavior monitoring for continuous tracking. By combining academic and career planning in one platform, Timely Sync promotes disciplined time management and improves overall productivity."
+    ],
+    "text": "This project presents Timely Sync, a Smart Deadline and Compliance Management System that helps students and professionals manage academic, career, and personal deadlines effectively. It overcomes the limitations of traditional reminder-based tools by providing intelligent risk scoring, impact simulation, and accountability tracking. The system supports manual task creation and smart intake from text, PDF, and images to convert bulk information into structured tasks.\n\tThe system follows a modular multi-tier architecture with a responsive frontend, secure backend, and scalable NoSQL database. It integrates in-app notifications, timeline visualization, and behavior monitoring for continuous tracking. By combining academic and career planning in one platform, Timely Sync promotes disciplined time management and improves overall productivity."
+   },
+   {
+    "name": "Straight Connector 4",
+    "has_text": false,
+    "has_table": false
+   },
+   {
+    "name": "Slide Number Placeholder 3",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "2"
+    ],
+    "text": "2"
+   }
+  ]
+ },
+ {
+  "n": 3,
+  "shapes": [
+   {
+    "name": "Title 1",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Introduction"
+    ],
+    "text": "Introduction"
+   },
+   {
+    "name": "Straight Connector 4",
+    "has_text": false,
+    "has_table": false
+   },
+   {
+    "name": "Slide Number Placeholder 3",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "3"
+    ],
+    "text": "3"
+   },
+   {
+    "name": "Content Placeholder 2",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "",
+     ""
+    ],
+    "text": ""
+   },
+   {
+    "name": "Content Placeholder 2",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "",
+     ""
+    ],
+    "text": ""
+   },
+   {
+    "name": "Rectangle 5",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Time management is essential for academic and career success in today’s competitive environment.",
+     "Students and professionals handle multiple deadlines, assignments, and commitments simultaneously.",
+     "Important information is scattered across emails, notices, learning portals, and social platforms.",
+     "Lack of structured planning and prioritization leads to stress, poor performance, and missed opportunities.",
+     "Manual tracking methods are time-consuming and error-prone.",
+     "There is a growing need for intelligent, centralized, and user-friendly deadline management systems."
+    ],
+    "text": "Time management is essential for academic and career success in today’s competitive environment.\nStudents and professionals handle multiple deadlines, assignments, and commitments simultaneously.\nImportant information is scattered across emails, notices, learning portals, and social platforms.\nLack of structured planning and prioritization leads to stress, poor performance, and missed opportunities.\nManual tracking methods are time-consuming and error-prone.\nThere is a growing need for intelligent, centralized, and user-friendly deadline management systems."
+   }
+  ]
+ },
+ {
+  "n": 4,
+  "shapes": [
+   {
+    "name": "Title 1",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Literature Review and Objectives:"
+    ],
+    "text": "Literature Review and Objectives:"
+   },
+   {
+    "name": "Straight Connector 4",
+    "has_text": false,
+    "has_table": false
+   },
+   {
+    "name": "Slide Number Placeholder 3",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "4"
+    ],
+    "text": "4"
+   },
+   {
+    "name": "Content Placeholder 7",
+    "has_text": false,
+    "has_table": true,
+    "table": [
+     [
+      "S.NO",
+      "Key Papers & Authors",
+      "Implications / Limitations",
+      "Major Research Gap Identified"
+     ],
+     [
+      "1",
+      "David Allen – Getting Things Done: The Art of Stress-Free Productivity",
+      "Demonstrates the importance of structured task organization and deadline planning for improving personal productivity.",
+      "Does not provide automated risk analysis or digital deadline monitoring systems."
+     ],
+     [
+      "2",
+      "Cal Newport – Deep Work: Rules for Focused Success in a Distracted World",
+      "Emphasizes focused work habits and time management for achieving high performance.",
+      "Lacks integration with automated task tracking and intelligent scheduling tools."
+     ],
+     [
+      "3",
+      "P. Sharma et al. – Student Academic Monitoring and Deadline Management System",
+      "Proposes a centralized system for tracking assignments, submissions, and academic deadlines.",
+      "Does not include impact analysis, compliance tracking, or behavioral insights."
+     ],
+     [
+      "4",
+      "J. Smith et al. – Deadline Monitoring and Notification Systems for Students",
+      "Highlights the role of automated alerts in reducing missed academic deadlines.",
+      "Does not support smart document intake or personalized risk assessment."
+     ],
+     [
+      "5",
+      "R. Brown – Behavior Analysis in Productivity Management Systems",
+      "Explains how behavior monitoring improves accountability and productivity patterns.",
+      "Lacks unified integration with academic and career planning platforms."
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "n": 5,
+  "shapes": [
+   {
+    "name": "Title 1",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Literature Review and Objectives:"
+    ],
+    "text": "Literature Review and Objectives:"
+   },
+   {
+    "name": "Content Placeholder 2",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Objectives:",
+     "Design a smart deadline and compliance management system for students and professionals.",
+     "Enable manual task creation and smart intake from text, PDF, and images.",
+     "Implement intelligent risk scoring and impact simulation for task prioritization.",
+     "Develop an interactive dashboard with timeline and notification features.",
+     "Track user behavior and accountability for productivity improvement.",
+     "Build a scalable and secure full-stack web application using modern technologies."
+    ],
+    "text": "Objectives:\nDesign a smart deadline and compliance management system for students and professionals.\nEnable manual task creation and smart intake from text, PDF, and images.\nImplement intelligent risk scoring and impact simulation for task prioritization.\nDevelop an interactive dashboard with timeline and notification features.\nTrack user behavior and accountability for productivity improvement.\nBuild a scalable and secure full-stack web application using modern technologies."
+   },
+   {
+    "name": "Straight Connector 4",
+    "has_text": false,
+    "has_table": false
+   },
+   {
+    "name": "Slide Number Placeholder 3",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "5"
+    ],
+    "text": "5"
+   }
+  ]
+ },
+ {
+  "n": 6,
+  "shapes": [
+   {
+    "name": "Title 1",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Existing Systems"
+    ],
+    "text": "Existing Systems"
+   },
+   {
+    "name": "Content Placeholder 2",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Calendar applications such as Google Calendar and Outlook provide only basic reminders and do not offer intelligent risk analysis or task prioritization based on urgency and impact.",
+     "Learning Management Systems (LMS) display academic deadlines but lack facilities for personalized planning, accountability tracking, and productivity analysis.",
+     "To-do and task management applications like Microsoft To-Do and Trello support task listing but do not provide impact simulation, compliance verification, or behavioral insights.",
+     "Most existing systems do not support smart intake from text, PDF, or images for automatic task extraction.",
+     "Current platforms do not integrate academic, career, and personal deadlines within a single unified system.",
+     ""
+    ],
+    "text": "Calendar applications such as Google Calendar and Outlook provide only basic reminders and do not offer intelligent risk analysis or task prioritization based on urgency and impact.\nLearning Management Systems (LMS) display academic deadlines but lack facilities for personalized planning, accountability tracking, and productivity analysis.\nTo-do and task management applications like Microsoft To-Do and Trello support task listing but do not provide impact simulation, compliance verification, or behavioral insights.\nMost existing systems do not support smart intake from text, PDF, or images for automatic task extraction.\nCurrent platforms do not integrate academic, career, and personal deadlines within a single unified system."
+   },
+   {
+    "name": "Straight Connector 4",
+    "has_text": false,
+    "has_table": false
+   },
+   {
+    "name": "Slide Number Placeholder 3",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "6"
+    ],
+    "text": "6"
+   }
+  ]
+ },
+ {
+  "n": 7,
+  "shapes": [
+   {
+    "name": "Title 1",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Problem Statement"
+    ],
+    "text": "Problem Statement"
+   },
+   {
+    "name": "Content Placeholder 2",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Existing deadline management systems do not provide an integrated mechanism for analyzing deadline risks, simulating real-world impacts, and monitoring user accountability. Most platforms focus only on basic reminders and task listing without considering urgency, priority, and consequences. As a result, users often fail to identify critical tasks and manage their schedules effectively.",
+     "The absence of intelligent document processing, personalized prioritization, and compliance tracking makes deadline management inefficient and error-prone. Important information from circulars and notices is not automatically converted into actionable tasks. This creates a strong need for a centralized system that supports intelligent decision-making and productivity improvement.",
+     "        ",
+     ""
+    ],
+    "text": "Existing deadline management systems do not provide an integrated mechanism for analyzing deadline risks, simulating real-world impacts, and monitoring user accountability. Most platforms focus only on basic reminders and task listing without considering urgency, priority, and consequences. As a result, users often fail to identify critical tasks and manage their schedules effectively.\nThe absence of intelligent document processing, personalized prioritization, and compliance tracking makes deadline management inefficient and error-prone. Important information from circulars and notices is not automatically converted into actionable tasks. This creates a strong need for a centralized system that supports intelligent decision-making and productivity improvement."
+   },
+   {
+    "name": "Straight Connector 4",
+    "has_text": false,
+    "has_table": false
+   },
+   {
+    "name": "Slide Number Placeholder 3",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "7"
+    ],
+    "text": "7"
+   }
+  ]
+ },
+ {
+  "n": 8,
+  "shapes": [
+   {
+    "name": "Title 1",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Functional And Non-Functional Requirements:"
+    ],
+    "text": "Functional And Non-Functional Requirements:"
+   },
+   {
+    "name": "Text Placeholder 2",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Functional Requirements"
+    ],
+    "text": "Functional Requirements"
+   },
+   {
+    "name": "Text Placeholder 4",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Non-Functional Requirements"
+    ],
+    "text": "Non-Functional Requirements"
+   },
+   {
+    "name": "Slide Number Placeholder 6",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "8"
+    ],
+    "text": "8"
+   },
+   {
+    "name": "Rectangle 1",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "User Authentication & Authorization",
+     "Manual Task Management",
+     "Smart Intake (Text, PDF, Image)",
+     "Automatic Risk Scoring & Prioritization",
+     "Timeline-Based Deadline View",
+     "In-App Overdue Notifications",
+     "Task Status Tracking"
+    ],
+    "text": "User Authentication & Authorization\nManual Task Management\nSmart Intake (Text, PDF, Image)\nAutomatic Risk Scoring & Prioritization\nTimeline-Based Deadline View\nIn-App Overdue Notifications\nTask Status Tracking"
+   },
+   {
+    "name": "Rectangle 2",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "System scalability",
+     "Performance",
+     "Data security and secure authentication",
+     "High availability and reliability",
+     "Responsive and user-friendly interface",
+     "Maintainability and modular design",
+     ""
+    ],
+    "text": "System scalability\nPerformance\nData security and secure authentication\nHigh availability and reliability\nResponsive and user-friendly interface\nMaintainability and modular design"
+   },
+   {
+    "name": "Straight Connector 9",
+    "has_text": false,
+    "has_table": false
+   }
+  ]
+ },
+ {
+  "n": 9,
+  "shapes": [
+   {
+    "name": "Title 1",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Hardware & Software Requirements"
+    ],
+    "text": "Hardware & Software Requirements"
+   },
+   {
+    "name": "Content Placeholder 2",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Hardware Requirements",
+     " Minimum 8 GB RAM",
+     "Intel i3 / i5 processor or higher",
+     " Stable internet connection",
+     " 20 GB free disk space",
+     "",
+     "Software Requirements",
+     "Frontend: React.js, HTML5, CSS3, JavaScript, Bootstrap",
+     "Backend: Java, Spring Boot, REST APIs, JWT Authentication",
+     "Database: MongoDB",
+     "Document Processing: Apache PDFBox and Tess4J (OCR)",
+     "Deployment/Serving: Node.js",
+     "Visualization: Chart.js / Recharts",
+     "Development Tools: IntelliJ IDEA / VS Code/ VS Git & GitHub",
+     "",
+     ""
+    ],
+    "text": "Hardware Requirements\n Minimum 8 GB RAM\nIntel i3 / i5 processor or higher\n Stable internet connection\n 20 GB free disk space\nSoftware Requirements\nFrontend: React.js, HTML5, CSS3, JavaScript, Bootstrap\nBackend: Java, Spring Boot, REST APIs, JWT Authentication\nDatabase: MongoDB\nDocument Processing: Apache PDFBox and Tess4J (OCR)\nDeployment/Serving: Node.js\nVisualization: Chart.js / Recharts\nDevelopment Tools: IntelliJ IDEA / VS Code/ VS Git & GitHub"
+   },
+   {
+    "name": "Straight Connector 4",
+    "has_text": false,
+    "has_table": false
+   },
+   {
+    "name": "Slide Number Placeholder 3",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "9"
+    ],
+    "text": "9"
+   }
+  ]
+ },
+ {
+  "n": 10,
+  "shapes": [
+   {
+    "name": "Title 1",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Proposed Methodology"
+    ],
+    "text": "Proposed Methodology"
+   },
+   {
+    "name": "Content Placeholder 2",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "The system is designed using a modular multi-tier architecture.",
+     "The frontend provides user interfaces for dashboard, task management, and smart intake.",
+     "The backend handles authentication, task processing, risk calculation, and notification services.",
+     "Document inputs (text, PDF, image) are converted into readable text using PDFBox and OCR.",
+     "Extracted data is analyzed and verified through a review mechanism before storage.",
+     "Task information is stored and managed using MongoDB.",
+     "A scheduler continuously monitors deadlines and updates task status.",
+     "The system generates risk scores, impact indicators, and timeline views for better decision-making."
+    ],
+    "text": "The system is designed using a modular multi-tier architecture.\nThe frontend provides user interfaces for dashboard, task management, and smart intake.\nThe backend handles authentication, task processing, risk calculation, and notification services.\nDocument inputs (text, PDF, image) are converted into readable text using PDFBox and OCR.\nExtracted data is analyzed and verified through a review mechanism before storage.\nTask information is stored and managed using MongoDB.\nA scheduler continuously monitors deadlines and updates task status.\nThe system generates risk scores, impact indicators, and timeline views for better decision-making."
+   },
+   {
+    "name": "Straight Connector 4",
+    "has_text": false,
+    "has_table": false
+   },
+   {
+    "name": "Slide Number Placeholder 3",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "10"
+    ],
+    "text": "10"
+   }
+  ]
+ },
+ {
+  "n": 11,
+  "shapes": [
+   {
+    "name": "Title 1",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "System Architecture"
+    ],
+    "text": "System Architecture"
+   },
+   {
+    "name": "Straight Connector 4",
+    "has_text": false,
+    "has_table": false
+   },
+   {
+    "name": "Slide Number Placeholder 3",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "11"
+    ],
+    "text": "11"
+   },
+   {
+    "name": "Content Placeholder 8",
+    "has_text": false,
+    "has_table": false
+   }
+  ]
+ },
+ {
+  "n": 12,
+  "shapes": [
+   {
+    "name": "Title 1",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Class Diagram"
+    ],
+    "text": "Class Diagram"
+   },
+   {
+    "name": "Straight Connector 4",
+    "has_text": false,
+    "has_table": false
+   },
+   {
+    "name": "Slide Number Placeholder 3",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "12"
+    ],
+    "text": "12"
+   },
+   {
+    "name": "Picture 5",
+    "has_text": false,
+    "has_table": false
+   }
+  ]
+ },
+ {
+  "n": 13,
+  "shapes": [
+   {
+    "name": "Title 1",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Use-Case Diagram"
+    ],
+    "text": "Use-Case Diagram"
+   },
+   {
+    "name": "Straight Connector 4",
+    "has_text": false,
+    "has_table": false
+   },
+   {
+    "name": "Slide Number Placeholder 3",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "13"
+    ],
+    "text": "13"
+   },
+   {
+    "name": "Content Placeholder 8",
+    "has_text": false,
+    "has_table": false
+   }
+  ]
+ },
+ {
+  "n": 14,
+  "shapes": [
+   {
+    "name": "Title 1",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Sequence Diagram"
+    ],
+    "text": "Sequence Diagram"
+   },
+   {
+    "name": "Straight Connector 4",
+    "has_text": false,
+    "has_table": false
+   },
+   {
+    "name": "Slide Number Placeholder 3",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "14"
+    ],
+    "text": "14"
+   },
+   {
+    "name": "Picture 5",
+    "has_text": false,
+    "has_table": false
+   }
+  ]
+ },
+ {
+  "n": 15,
+  "shapes": [
+   {
+    "name": "Title 1",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Activity Diagram"
+    ],
+    "text": "Activity Diagram"
+   },
+   {
+    "name": "Straight Connector 4",
+    "has_text": false,
+    "has_table": false
+   },
+   {
+    "name": "Slide Number Placeholder 3",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "15"
+    ],
+    "text": "15"
+   },
+   {
+    "name": "Content Placeholder 8",
+    "has_text": false,
+    "has_table": false
+   }
+  ]
+ },
+ {
+  "n": 16,
+  "shapes": [
+   {
+    "name": "Title 1",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Deployment Diagram"
+    ],
+    "text": "Deployment Diagram"
+   },
+   {
+    "name": "Straight Connector 4",
+    "has_text": false,
+    "has_table": false
+   },
+   {
+    "name": "Slide Number Placeholder 3",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "16"
+    ],
+    "text": "16"
+   },
+   {
+    "name": "Content Placeholder 8",
+    "has_text": false,
+    "has_table": false
+   }
+  ]
+ },
+ {
+  "n": 17,
+  "shapes": [
+   {
+    "name": "Title 1",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Implementation – Module Description"
+    ],
+    "text": "Implementation – Module Description"
+   },
+   {
+    "name": "Content Placeholder 2",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Helps users organize and track tasks through a centralized platform.",
+     "Supports task creation, update, completion, and deletion with better execution using subtasks.",
+     "Predicts deadline risk and possible task failure to improve planning.",
+     "Provides dashboard analytics, productivity insights, and accountability through proof-based task completion.",
+     "AI-Based Deadline Intelligence",
+     "Analyzes tasks based on due date pressure, priority, impact, and effort.",
+     "Classifies tasks into Safe, Warning, and Critical levels.",
+     "Predicts failure probability and suggests corrective actions to identify risks early."
+    ],
+    "text": "Helps users organize and track tasks through a centralized platform.\nSupports task creation, update, completion, and deletion with better execution using subtasks.\nPredicts deadline risk and possible task failure to improve planning.\nProvides dashboard analytics, productivity insights, and accountability through proof-based task completion.\nAI-Based Deadline Intelligence\nAnalyzes tasks based on due date pressure, priority, impact, and effort.\nClassifies tasks into Safe, Warning, and Critical levels.\nPredicts failure probability and suggests corrective actions to identify risks early."
+   },
+   {
+    "name": "Straight Connector 4",
+    "has_text": false,
+    "has_table": false
+   },
+   {
+    "name": "Slide Number Placeholder 3",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "17"
+    ],
+    "text": "17"
+   }
+  ]
+ },
+ {
+  "n": 18,
+  "shapes": [
+   {
+    "name": "Title 1",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Implementation – Module Description"
+    ],
+    "text": "Implementation – Module Description"
+   },
+   {
+    "name": "Content Placeholder 2",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Smart Intake Module",
+     "Accepts PDF, image, and text inputs.",
+     "Extracts content using OCR and converts it into task drafts.",
+     "Identifies key details like title, due date, priority, rules, and notes, reducing manual effort.",
+     "Authentication and Security",
+     "Supports user registration and login with JWT-based authentication.",
+     "Includes email verification, forgot password, and secure access control.",
+     "Dashboard and Accountability",
+     "Displays task summaries, overdue tasks, and risk highlights.",
+     "Shows daily tasks and weekly trends with notifications.",
+     "Maintains streaks, XP, levels, and achievements to improve productivity and engagement."
+    ],
+    "text": "Smart Intake Module\nAccepts PDF, image, and text inputs.\nExtracts content using OCR and converts it into task drafts.\nIdentifies key details like title, due date, priority, rules, and notes, reducing manual effort.\nAuthentication and Security\nSupports user registration and login with JWT-based authentication.\nIncludes email verification, forgot password, and secure access control.\nDashboard and Accountability\nDisplays task summaries, overdue tasks, and risk highlights.\nShows daily tasks and weekly trends with notifications.\nMaintains streaks, XP, levels, and achievements to improve productivity and engagement."
+   },
+   {
+    "name": "Straight Connector 4",
+    "has_text": false,
+    "has_table": false
+   },
+   {
+    "name": "Slide Number Placeholder 3",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "18"
+    ],
+    "text": "18"
+   }
+  ]
+ },
+ {
+  "n": 19,
+  "shapes": [
+   {
+    "name": "Title 1",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Coding"
+    ],
+    "text": "Coding"
+   },
+   {
+    "name": "Content Placeholder 2",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Smart Task Intake using OCR and PDF Processing",
+     "The system supports document-based task creation by accepting PDF files, images, and plain text. Using Apache PDFBox and OCR, the uploaded content is converted into readable text, which is then analyzed to extract task details such as title, due date, priority, rules, and warnings. This reduces manual task entry and improves productivity.",
+     ""
+    ],
+    "text": "Smart Task Intake using OCR and PDF Processing\nThe system supports document-based task creation by accepting PDF files, images, and plain text. Using Apache PDFBox and OCR, the uploaded content is converted into readable text, which is then analyzed to extract task details such as title, due date, priority, rules, and warnings. This reduces manual task entry and improves productivity."
+   },
+   {
+    "name": "Straight Connector 4",
+    "has_text": false,
+    "has_table": false
+   },
+   {
+    "name": "Slide Number Placeholder 3",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "19"
+    ],
+    "text": "19"
+   },
+   {
+    "name": "Picture 6",
+    "has_text": false,
+    "has_table": false
+   }
+  ]
+ },
+ {
+  "n": 20,
+  "shapes": [
+   {
+    "name": "Title 1",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Coding"
+    ],
+    "text": "Coding"
+   },
+   {
+    "name": "Content Placeholder 2",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "AI-Based Risk Analysis and Failure Prediction",
+     "TimelySync includes an intelligence layer that evaluates each task based on due date pressure, priority, impact, and effort. The system calculates a risk score and classifies tasks into Safe, Warning, or Critical levels. This helps users identify high-risk tasks early and take corrective action before deadlines are missed.",
+     ".",
+     ""
+    ],
+    "text": "AI-Based Risk Analysis and Failure Prediction\nTimelySync includes an intelligence layer that evaluates each task based on due date pressure, priority, impact, and effort. The system calculates a risk score and classifies tasks into Safe, Warning, or Critical levels. This helps users identify high-risk tasks early and take corrective action before deadlines are missed.\n."
+   },
+   {
+    "name": "Straight Connector 4",
+    "has_text": false,
+    "has_table": false
+   },
+   {
+    "name": "Slide Number Placeholder 3",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "20"
+    ],
+    "text": "20"
+   },
+   {
+    "name": "Picture 7",
+    "has_text": false,
+    "has_table": false
+   }
+  ]
+ },
+ {
+  "n": 21,
+  "shapes": [
+   {
+    "name": "Title 1",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Coding"
+    ],
+    "text": "Coding"
+   },
+   {
+    "name": "Content Placeholder 2",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Dashboard Analytics and Productivity Tracking",
+     "The dashboard module gives users a complete productivity overview by showing total tasks, active tasks, completed tasks, overdue tasks, and weekly trends. It also highlights high-risk and attention-needed tasks, helping users make better planning decisions."
+    ],
+    "text": "Dashboard Analytics and Productivity Tracking\nThe dashboard module gives users a complete productivity overview by showing total tasks, active tasks, completed tasks, overdue tasks, and weekly trends. It also highlights high-risk and attention-needed tasks, helping users make better planning decisions."
+   },
+   {
+    "name": "Straight Connector 4",
+    "has_text": false,
+    "has_table": false
+   },
+   {
+    "name": "Slide Number Placeholder 3",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "21"
+    ],
+    "text": "21"
+   },
+   {
+    "name": "Picture 7",
+    "has_text": false,
+    "has_table": false
+   }
+  ]
+ },
+ {
+  "n": 22,
+  "shapes": [
+   {
+    "name": "Title 1",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Outcome"
+    ],
+    "text": "Outcome"
+   },
+   {
+    "name": "Straight Connector 4",
+    "has_text": false,
+    "has_table": false
+   },
+   {
+    "name": "Slide Number Placeholder 3",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "22"
+    ],
+    "text": "22"
+   },
+   {
+    "name": "Content Placeholder 7",
+    "has_text": false,
+    "has_table": false
+   },
+   {
+    "name": "Picture 10",
+    "has_text": false,
+    "has_table": false
+   }
+  ]
+ },
+ {
+  "n": 23,
+  "shapes": [
+   {
+    "name": "Title 1",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Outcome"
+    ],
+    "text": "Outcome"
+   },
+   {
+    "name": "Straight Connector 4",
+    "has_text": false,
+    "has_table": false
+   },
+   {
+    "name": "Slide Number Placeholder 3",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "23"
+    ],
+    "text": "23"
+   },
+   {
+    "name": "Content Placeholder 8",
+    "has_text": false,
+    "has_table": false
+   }
+  ]
+ },
+ {
+  "n": 24,
+  "shapes": [
+   {
+    "name": "Title 1",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Outcome"
+    ],
+    "text": "Outcome"
+   },
+   {
+    "name": "Straight Connector 4",
+    "has_text": false,
+    "has_table": false
+   },
+   {
+    "name": "Slide Number Placeholder 3",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "24"
+    ],
+    "text": "24"
+   },
+   {
+    "name": "Picture 5",
+    "has_text": false,
+    "has_table": false
+   },
+   {
+    "name": "Picture 11",
+    "has_text": false,
+    "has_table": false
+   }
+  ]
+ },
+ {
+  "n": 25,
+  "shapes": [
+   {
+    "name": "Title 1",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Outcome"
+    ],
+    "text": "Outcome"
+   },
+   {
+    "name": "Straight Connector 4",
+    "has_text": false,
+    "has_table": false
+   },
+   {
+    "name": "Slide Number Placeholder 3",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "25"
+    ],
+    "text": "25"
+   },
+   {
+    "name": "Picture 8",
+    "has_text": false,
+    "has_table": false
+   },
+   {
+    "name": "Picture 11",
+    "has_text": false,
+    "has_table": false
+   }
+  ]
+ },
+ {
+  "n": 26,
+  "shapes": [
+   {
+    "name": "Title 1",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Outcome"
+    ],
+    "text": "Outcome"
+   },
+   {
+    "name": "Straight Connector 4",
+    "has_text": false,
+    "has_table": false
+   },
+   {
+    "name": "Slide Number Placeholder 3",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "26"
+    ],
+    "text": "26"
+   },
+   {
+    "name": "Picture 5",
+    "has_text": false,
+    "has_table": false
+   }
+  ]
+ },
+ {
+  "n": 27,
+  "shapes": [
+   {
+    "name": "Title 1",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Outcome"
+    ],
+    "text": "Outcome"
+   },
+   {
+    "name": "Straight Connector 4",
+    "has_text": false,
+    "has_table": false
+   },
+   {
+    "name": "Slide Number Placeholder 3",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "27"
+    ],
+    "text": "27"
+   },
+   {
+    "name": "Picture 8",
+    "has_text": false,
+    "has_table": false
+   },
+   {
+    "name": "Picture 11",
+    "has_text": false,
+    "has_table": false
+   }
+  ]
+ },
+ {
+  "n": 28,
+  "shapes": [
+   {
+    "name": "Title 1",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Conclusion"
+    ],
+    "text": "Conclusion"
+   },
+   {
+    "name": "Content Placeholder 2",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "TimelySync - Smart Deadline and Compliance Manager is developed as a student-centric platform for managing academic deadlines and time-sensitive tasks efficiently.",
+     "It overcomes limitations of traditional planning methods by providing a centralized system for task management, deadline tracking, smart analysis, and productivity monitoring.",
+     "The system supports features such as task creation, deadline monitoring, Smart Intake document processing, risk analysis, notifications, and progress tracking.",
+     "It offers a simple and organized interface for handling assignments, exams, registrations, workshops, internships, and other commitments.",
+     "Smart deadline analysis and document-based extraction improve usability and efficiency compared to normal reminder systems.",
+     "The system is tested, and all major modules function correctly, with a modular design that supports future enhancements.",
+     "Overall, TimelySync enhances student productivity, accountability, and effective deadline management through a smart web-based platform."
+    ],
+    "text": "TimelySync - Smart Deadline and Compliance Manager is developed as a student-centric platform for managing academic deadlines and time-sensitive tasks efficiently.\nIt overcomes limitations of traditional planning methods by providing a centralized system for task management, deadline tracking, smart analysis, and productivity monitoring.\nThe system supports features such as task creation, deadline monitoring, Smart Intake document processing, risk analysis, notifications, and progress tracking.\nIt offers a simple and organized interface for handling assignments, exams, registrations, workshops, internships, and other commitments.\nSmart deadline analysis and document-based extraction improve usability and efficiency compared to normal reminder systems.\nThe system is tested, and all major modules function correctly, with a modular design that supports future enhancements.\nOverall, TimelySync enhances student productivity, accountability, and effective deadline management through a smart web-based platform."
+   },
+   {
+    "name": "Straight Connector 4",
+    "has_text": false,
+    "has_table": false
+   },
+   {
+    "name": "Slide Number Placeholder 3",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "28"
+    ],
+    "text": "28"
+   }
+  ]
+ },
+ {
+  "n": 29,
+  "shapes": [
+   {
+    "name": "Title 1",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Future Course of Action"
+    ],
+    "text": "Future Course of Action"
+   },
+   {
+    "name": "Content Placeholder 2",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "Mobile Application: Development of Android and iOS apps for better accessibility.",
+     "Advanced Smart Analysis: Improved prediction, prioritization, and personalized recommendations.",
+     "Calendar Integration: Synchronization with external calendar services.",
+     "Advanced Analytics: Detailed insights on productivity and workload trends.",
+     "Multi-user Collaboration: Support for shared tasks and team-based planning.",
+     "Cloud Deployment: Improved scalability, reliability, and availability.",
+     "Multi-language Support: Accessibility for a wider range of users.",
+     "These enhancements will further strengthen the system as an effective tool for student planning and productivity management."
+    ],
+    "text": "Mobile Application: Development of Android and iOS apps for better accessibility.\nAdvanced Smart Analysis: Improved prediction, prioritization, and personalized recommendations.\nCalendar Integration: Synchronization with external calendar services.\nAdvanced Analytics: Detailed insights on productivity and workload trends.\nMulti-user Collaboration: Support for shared tasks and team-based planning.\nCloud Deployment: Improved scalability, reliability, and availability.\nMulti-language Support: Accessibility for a wider range of users.\nThese enhancements will further strengthen the system as an effective tool for student planning and productivity management."
+   },
+   {
+    "name": "Straight Connector 4",
+    "has_text": false,
+    "has_table": false
+   },
+   {
+    "name": "Slide Number Placeholder 3",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "29"
+    ],
+    "text": "29"
+   }
+  ]
+ },
+ {
+  "n": 30,
+  "shapes": [
+   {
+    "name": "Title 1",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "References"
+    ],
+    "text": "References"
+   },
+   {
+    "name": "Content Placeholder 2",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "1. G. Booch, J. Rumbaugh, and I. Jacobson, The Unified Modeling Language User Guide, 2nd ed. Boston, MA, USA: Addison-Wesley, 2005. [Online]. Available: https://www.informit.com/store/unified-modeling-language-user-guide-9780321267979",
+     "2. I Sommerville, Software Engineering, 10th ed. Boston, MA, USA: Pearson, 2016. [Online]. Available: https://www.pearson.com/en-us/subject-catalog/p/software-engineering/P200000003354",
+     "3. M. Jones, J. Bradley, and N. Sakimura, “JSON Web Token (JWT),” RFC 7519, May 2015. [Online]. Available: https://datatracker.ietf.org/doc/html/rfc7519",
+     "4. Spring, Spring Boot Reference Documentation. [Online]. Available: https://docs.spring.io/spring-boot/docs/current/reference/html/",
+     "5. Spring, Spring Security Reference. [Online]. Available: https://docs.spring.io/spring-security/reference/",
+     "6. MongoDB, MongoDB Manual. [Online]. Available: https://www.mongodb.com/docs/manual/",
+     "7. Apache Software Foundation, Apache PDFBox. [Online]. Available: https://pdfbox.apache.org/",
+     "8. Tesseract OCR, Tesseract User Manual. [Online]. Available: https://tesseract-ocr.github.io/",
+     "9. Meta Open Source, React Documentation. [Online]. Available: https://react.dev/",
+     "10. OpenJS Foundation, Node.js Documentation. [Online]. Available: https://nodejs.org/docs/latest/api/"
+    ],
+    "text": "1. G. Booch, J. Rumbaugh, and I. Jacobson, The Unified Modeling Language User Guide, 2nd ed. Boston, MA, USA: Addison-Wesley, 2005. [Online]. Available: https://www.informit.com/store/unified-modeling-language-user-guide-9780321267979\n2. I Sommerville, Software Engineering, 10th ed. Boston, MA, USA: Pearson, 2016. [Online]. Available: https://www.pearson.com/en-us/subject-catalog/p/software-engineering/P200000003354\n3. M. Jones, J. Bradley, and N. Sakimura, “JSON Web Token (JWT),” RFC 7519, May 2015. [Online]. Available: https://datatracker.ietf.org/doc/html/rfc7519\n4. Spring, Spring Boot Reference Documentation. [Online]. Available: https://docs.spring.io/spring-boot/docs/current/reference/html/\n5. Spring, Spring Security Reference. [Online]. Available: https://docs.spring.io/spring-security/reference/\n6. MongoDB, MongoDB Manual. [Online]. Available: https://www.mongodb.com/docs/manual/\n7. Apache Software Foundation, Apache PDFBox. [Online]. Available: https://pdfbox.apache.org/\n8. Tesseract OCR, Tesseract User Manual. [Online]. Available: https://tesseract-ocr.github.io/\n9. Meta Open Source, React Documentation. [Online]. Available: https://react.dev/\n10. OpenJS Foundation, Node.js Documentation. [Online]. Available: https://nodejs.org/docs/latest/api/"
+   },
+   {
+    "name": "Straight Connector 4",
+    "has_text": false,
+    "has_table": false
+   },
+   {
+    "name": "Slide Number Placeholder 3",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "30"
+    ],
+    "text": "30"
+   }
+  ]
+ },
+ {
+  "n": 31,
+  "shapes": [
+   {
+    "name": "Content Placeholder 1",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "THANK YOU"
+    ],
+    "text": "THANK YOU"
+   },
+   {
+    "name": "Slide Number Placeholder 2",
+    "has_text": true,
+    "has_table": false,
+    "paras": [
+     "19"
+    ],
+    "text": "19"
+   }
+  ]
+ }
+]

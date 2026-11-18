@@ -1,0 +1,46 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node
+node_modules/
+.next/
+dist/
+build/
+*.tsbuildinfo
+
+# Local data / models / media
+data/
+*.db
+*.pt
+*.onnx
+*.mp4
+*.avi
+*.mkv
+*.mov
+backend/data/
+uploads/
+
+# IDE / editor (keep repo recruiter-clean)
+.cursor/
+.cursorignore
+.idea/
+*.swp
+
+# OS / logs
+.DS_Store
+Thumbs.db
+coverage/
+htmlcov/
+*.log
+infra/docker/data/
